@@ -14,3 +14,9 @@ c) A simple deep Q learning try with PyTorch for OpenAIGym CartPole v1 model
   
 <br>
 
+d) A simple Policy Gradient application for OpenAIGym CartPole v1 model
+  
+  * It generally converges and when it converges it works for at least 5000(because I only tried 5000), probably infinite steps. If not converges, run it one more times.
+  
+<br>
+
